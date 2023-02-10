@@ -127,3 +127,13 @@
     .liste ul{
         list-style-type: circle;
     }
+
+    .personne{
+        padding: 5px;
+        border: #FFBB0D solid 1px;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        width: fit-content;
+        flex-direction: column;
+    }
